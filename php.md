@@ -6,7 +6,7 @@
  - 技术博客：[http://wangwenfan.top](http://wangwenfan.top) 
  - Github：[http://github.com/wangwenfan ](http://github.com/wangwenfan )
 
-> 将近3年PHP开发经验，能独立完成Web项目的服务端架构设计和开发。熟悉常用的PHP框架，熟悉Linux环境会写简单的`shell`脚本维护服务器。能合理的为数据库做性能和索引优化，以及缓存的运用。掌握基本的Web安全防范。熟悉微信开发，能独立编写前端页面和JavaScript，了解主流的前端mvvm框架。
+> 将近3年PHP开发经验，能独立完成Web项目的服务端架构设计和开发。参与过千万用户的项目开发。熟悉常用的PHP框架，熟悉Linux环境会写简单的`shell`脚本维护服务器。能合理的为数据库做性能和索引优化，以及缓存的运用。实践过高并发场景的解决方法。掌握基本的Web安全防范。熟悉微信开发，能独立编写前端页面和JavaScript，了解主流的前端mvvm框架。
 
 # 工作经历
 
@@ -42,6 +42,7 @@
 - 版本管理、文档和自动化部署工具：Svn/Git/TFS/Composer
 - 云和开放平台：支付/微信应用开发
 - 熟悉LNMP、LAMP 环境搭建，熟练使用Redis和Memcache
+- 了解python、shell脚本的使用
 
 ---
 
