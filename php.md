@@ -1,20 +1,19 @@
 # 个人信息
 
  - 王文凡/男/1991 
- - 专科/成都电大 
+ - 专科/四川电大
  - 工作年限：2.8年
  - 技术博客：[http://wangwenfan.top](http://wangwenfan.top) 
  - Github：[http://github.com/wangwenfan ](http://github.com/wangwenfan )
- - 期望职位：PHP程序员
 
----
+> 将近3年PHP开发经验，能独立完成Web项目的服务端架构设计和开发。熟悉常用的PHP框架，熟悉Linux环境会写简单的`shell`脚本维护服务器。能合理的为数据库做性能和索引优化，以及缓存的运用。掌握基本的Web安全防范。熟悉微信开发，能独立编写前端页面和JavaScript，了解主流的前端mvvm框架。
 
 # 工作经历
 
 ## 四川福豆科技 （ 2016年11月 ~ 至今 ）
 
 ### CMS系统 
-这个cms主要负责整个APP平台的内容管理，给多个应用提供内容服务。包括APP里的各种应用，官网等。用PHPCMS搭建的多站点系统。全站实现静态化并到cdn。并和优信平台打通服务共享。并独立开发某些模块的前后台。其中有表数据达到20w+，使用了水平分表。
+这个cms主要负责整个APP平台的内容管理，给多个应用提供内容服务。包括APP里的各种应用，官网等。用PHPCMS搭建的多站点系统。全站实现静态化并到cdn。并和优信平台打通服务共享。独立开发某些模块的前后台。其中有表数据达到20w+，使用了水平分表。
 
 
 ### B2b2c 商城系统
@@ -37,7 +36,7 @@
 以下均为我熟练使用的技能
 
 - Web框架：ThinkPHP/Yii/Laravel/Phpcms
-- 前端框架：Bootstrap/AngularJS/Jquery
+- 前端框架：Bootstrap/Vue/Jquery
 - 前端工具：Gulp/Npm
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
 - 版本管理、文档和自动化部署工具：Svn/Git/TFS/Composer
