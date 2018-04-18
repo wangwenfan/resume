@@ -1,7 +1,7 @@
 # 个人信息
 
  - 王文凡/男/1991 
- - 专科/四川电大
+ - 专科
  - 工作年限：2.5年
  - 技术博客：[http://wangwenfan.top](http://wangwenfan.top) 
  - Github：[http://github.com/wangwenfan ](http://github.com/wangwenfan )
